@@ -8,9 +8,8 @@ def is_count(n):
             count+=1
             n//=10
         return count
-
 def armstrong(n):
-    count=is_count(n)
+    count=is_count(n)      #call fun,using above fun input var
     org=n
     armst=0
     while n>0:
@@ -18,6 +17,4 @@ def armstrong(n):
         armst=armst+(dig**count)
         n//=10
     return armst==org
-
-
 print(armstrong(int(input("enter num:"))))
