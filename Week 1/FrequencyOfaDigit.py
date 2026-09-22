@@ -12,7 +12,6 @@ else:
             
 print(f"{a} occurs {count} times")
 
-
 """if a < 0 or a > 9:
     print("Invalid digit")""" 
 
