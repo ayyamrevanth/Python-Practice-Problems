@@ -10,3 +10,4 @@ def is_count(n):
             n//=10
         return count
 print(is_count(int(input("enter n:"))))
+  

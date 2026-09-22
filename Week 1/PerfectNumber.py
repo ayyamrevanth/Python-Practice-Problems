@@ -11,3 +11,4 @@ else:
             print(f"{num} is a Perfect Number")
     else:
         print(f"{num} is not a Perfect Number")
+        

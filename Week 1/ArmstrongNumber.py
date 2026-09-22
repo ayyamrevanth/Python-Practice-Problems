@@ -16,4 +16,3 @@ if total==a:
     print(f"{a} is an Armstrong Number ")
 else:
     print(f"{a} Not an Armstrong Number")
-    

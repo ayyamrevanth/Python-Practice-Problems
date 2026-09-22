@@ -17,7 +17,6 @@ else:
     
 
 
-
 """if num%i==0:
         print(f"{num} is prime number")
     else:

@@ -13,5 +13,6 @@ else:
         else:
             odd_digits+=1
         num=num//10
+        
 print("Even digits:",even_digits)
 print("Odd digits:",odd_digits)

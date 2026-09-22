@@ -1,7 +1,6 @@
 num =int(input("enter num:"))
 largest= 0 
 
-
 while num>0:
     digit=num%10
 

@@ -16,3 +16,4 @@ else:
         print(f"{org} is strong number")
     else:
         print(f"{org} is not strong number")
+        

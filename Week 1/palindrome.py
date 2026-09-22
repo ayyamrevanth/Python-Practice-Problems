@@ -8,6 +8,7 @@ while num>0:
     num=num//10  # deletes the last digit
 print(f"reversed num is {reverse}")
 
+
 if reverse == original:
     print(f"The given {original} is palindrome")
 else:

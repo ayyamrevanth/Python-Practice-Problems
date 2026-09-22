@@ -8,3 +8,4 @@ else:
         if num%i==0:
             total+=i
     print(total)
+    

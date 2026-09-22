@@ -11,6 +11,7 @@ else:
                 count+=2
 print(count)"""
 
+
 #After Gpt Correction
 num=int(input("enter num:"))
 count=0
