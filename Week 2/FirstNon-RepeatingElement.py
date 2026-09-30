@@ -8,7 +8,7 @@ def non_repeating(freq):
     for i in freq:
         if frequency[i]==1:
             return i
-    if frequency[i]==0:
+    if frequency[i]==1:             #if frequency[i]==0: (ChatGpt correction)
         return None
 freq = [5, 4, 5, 2, 4, 7]
 #freq = [4, 2, 4, 2]
